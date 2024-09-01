@@ -20,7 +20,9 @@
 		"vscode": {
 			"extensions": [
 				"ms-vscode.cpptools-extension-pack",
-				"EditorConfig.EditorConfig"
+				"EditorConfig.EditorConfig",
+				"eamodio.gitlens",
+				"donjayamanne.git-extension-pack",
 			]
 		}
 	}
